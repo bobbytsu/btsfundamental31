@@ -14,7 +14,6 @@ public class ContohLainIf {
         }else {
             System.out.println("Huruf Konsonan");
         }
-
         if(
                 huruf.equals("b")||
                 huruf.equals("c")||
