@@ -31,7 +31,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.juaracoding.day1.CobaMain</mainClass>
+                  <mainClass>com.juaracoding.Main</mainClass>
                 </transformer>
               </transformers>
             </configuration>

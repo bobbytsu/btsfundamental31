@@ -32,6 +32,5 @@ public class BikinDataEmail {
                     append(strProvider[rand.nextInt(strProvider.length)]).append(".").append(strDomain[rand.nextInt(strDomain.length)]);
             System.out.println(sbuild.toString());
         }
-
     }
 }
