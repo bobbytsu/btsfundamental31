@@ -1,0 +1,32 @@
+package com.juaracoding.oop.scope;
+
+public class DBConProperties {
+
+    private String url;
+    private String username;
+    private String password;
+    private String driver;
+
+    public DBConProperties(String url, String username, String password, String driver) {
+        this.url = url;
+        this.username = username;
+        this.password = password;
+        this.driver = driver;
+    }
+
+    public String getUrl() {
+        return url;
+    }
+
+    public String getUsername() {
+        return username;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public String getDriver() {
+        return driver;
+    }
+}

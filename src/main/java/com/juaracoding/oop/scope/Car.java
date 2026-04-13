@@ -1,4 +1,4 @@
-package com.juaracoding.oop;
+package com.juaracoding.oop.scope;
 
 public class Car {
     public final String name="nilai";

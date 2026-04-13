@@ -1,7 +1,5 @@
 package com.juaracoding.oop.scope;
 
-import com.juaracoding.oop.Car;
-
 public class Kijang extends Car {
 
     void coba(){
