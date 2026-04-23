@@ -17,6 +17,7 @@ public class DataService implements IService<Data> {
             System.out.println("Data tidak boleh null "+"OPS01001");
             return;
         }
+        
         if(!data.getData1().equals("ok")){
             System.out.println("Data1 tidak boleh ok "+"OPS01002");
             return;

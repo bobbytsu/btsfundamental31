@@ -27,7 +27,6 @@ public class Coretan {
 
         Coretan2 c2= new Coretan2();
         c2.proses1(1,"a");
-        c2.proses1("a",1);
 
 //        Class1 c1= new Class1();
     }
